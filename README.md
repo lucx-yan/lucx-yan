@@ -2,7 +2,7 @@
 <h3 align="center">Meu nome é Yan Lucas, tenho 18 anos e sou estudante de Engenharia de Software no primeiro semestre, iniciado em agosto de 2024. Apaixonado por tecnologia e em constante aprendizado, estou explorando diversas áreas da programação com interesse especial em desenvolvimento backend e arquitetura de software, buscando expandir meus conhecimentos práticos através de projetos acadêmicos e pessoais.</h3>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="25" height="25" style="vertical-align: middle;"/> 
+  <img src="https://img.icons8.com/color/48/000000/source-code.png" width="25"/>
   Linguagens e Tecnologias
 </h2>
 
@@ -15,7 +15,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" style="vertical-align: middle;"/> 
+  <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="25"/>
   Minhas Estatísticas
 </h2>
 <img
@@ -36,7 +36,7 @@
 <br clear="left"/>
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="25" height="25" style="vertical-align: middle;"/> 
+  <img src="https://img.icons8.com/color/48/000000/chat.png" width="25"/>
   Contatos e Mídias Sociais
 </h2>
 <a href="mailto:yanlucasx10@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
