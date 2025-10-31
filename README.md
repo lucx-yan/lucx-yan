@@ -12,7 +12,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
 
 <h3 align="left">Minhas Estatísticas</h3>
-
 <img
   align="left"
   alt="GitHub Stats" 
@@ -20,15 +19,16 @@
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br"
 />
-
 <img 
   align="left" 
   alt="Top Languages" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-<h3>Contatos e Mídias Sociais</h3>
 
+<br clear="left"/>
+
+<h3>Contatos e Mídias Sociais</h3>
 <a href="mailto:yanlucasx10@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/lucx.yan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucx-yan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
