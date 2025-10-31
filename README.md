@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World!</h1>
-<h3 align="center">Meu nome é Yan Lucas, tenho 18 anos e sou estudante de Engenharia de Software no primeiro semestre, iniciado em agosto de 2025. Apaixonado por tecnologia e em constante aprendizado, estou explorando diversas áreas da programação com interesse especial em desenvolvimento backend e arquitetura de software, buscando expandir meus conhecimentos práticos através de projetos acadêmicos e pessoais.</h3>
+<h3 align="center">Meu nome é Yan Lucas, tenho 18 anos e sou estudante de Engenharia de Software na FIAP, cursando o primeiro ano do bacharelado. Com grande interesse por tecnologia, dedico-me ao aprendizado contínuo e à exploração de diferentes áreas da programação, especialmente desenvolvimento backend e arquitetura de software. Busco constantemente aprimorar minhas habilidades através de projetos acadêmicos e iniciativas pessoais.</h3>
 
 <h2>
   <img src="https://img.icons8.com/color/48/000000/source-code.png" width="25"/>
