@@ -11,6 +11,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
 
+<h3 align="left">Minhas Estatísticas</h3>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br" alt="lucx-yan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br&layout=compact" alt="lucx-yan" /></p>
 
