@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello World!</h1>
 <h3 align="center">Meu nome é Yan Lucas, tenho 18 anos e sou estudante de Engenharia de Software na FIAP, cursando o primeiro ano do bacharelado. Com grande interesse por tecnologia, dedico-me ao aprendizado contínuo e à exploração de diferentes áreas da programação, especialmente desenvolvimento backend e arquitetura de software. Busco constantemente aprimorar minhas habilidades através de projetos acadêmicos e iniciativas pessoais.</h3>
 
+<hr style="height: 2px; border: none; background: linear-gradient(to right, #0b2e5b, #0f5cbb, #0b2e5b); border-radius: 5px;">
+
 <h2>
   <img src="https://img.icons8.com/color/48/000000/source-code.png" width="25"/>
   Linguagens e Tecnologias
@@ -13,6 +15,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
+
+<hr style="height: 2px; border: none; background: linear-gradient(to right, #0b2e5b, #0f5cbb, #0b2e5b); border-radius: 5px;">
 
 <h2>
   <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="25"/>
@@ -34,6 +38,8 @@
 />
 
 <br clear="left"/>
+
+<hr style="height: 2px; border: none; background: linear-gradient(to right, #0b2e5b, #0f5cbb, #0b2e5b); border-radius: 5px;">
 
 <h2>
   <img src="https://img.icons8.com/color/48/000000/chat.png" width="25"/>
