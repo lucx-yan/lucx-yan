@@ -11,6 +11,10 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br&layout=compact" alt="lucx-yan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br" alt="lucx-yan" /></p>
+
 <h3>Contatos e Mídias Sociais</h3>
 
 <a href="mailto:yanlucasx10@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
