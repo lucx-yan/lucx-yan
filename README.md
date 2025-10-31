@@ -17,13 +17,14 @@
   alt="GitHub Stats" 
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&custom_title=Yan%20Lucas's%20GitHub%20Stats"
 />
+
 <img 
   align="left" 
   alt="Top Languages" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucx-yan&show_icons=true&theme=dark&title_color=0b2e5b&text_color=0f5cbb&bg_color=212830&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9" 
 />
 
 <br clear="left"/>
