@@ -23,20 +23,8 @@
   <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="25"/>
   Minhas Estatísticas
 </h2>
-<img
-  align="left"
-  alt="GitHub Stats" 
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&icon_color=58a6ff&custom_title=Yan%20Lucas's%20GitHub%20Stats"
-/>
 
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucx-yan&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9" 
-/>
+
 
 <br clear="left"/>
 
