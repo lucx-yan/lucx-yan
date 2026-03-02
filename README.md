@@ -42,12 +42,11 @@
 
 <hr style="height: 2px; border: none; background: linear-gradient(to right, #0b2e5b, #0f5cbb, #0b2e5b); border-radius: 5px;">
 
-<h2>
-  <img src="https://img.icons8.com/color/48/000000/chat.png" width="25"/>
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/000000/chat.png" width="25"/ >
   Contatos e Mídias Sociais
 </h2>
-<a href="mailto:yanlucasx10@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/lucx.yan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lucx-yan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a align="center" href="mailto:yanlucasx10@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a align="center" href="https://www.linkedin.com/in/lucx-yan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <hr style="height: 2px; border: none; background: linear-gradient(to right, #0b2e5b, #0f5cbb, #0b2e5b); border-radius: 5px;">
