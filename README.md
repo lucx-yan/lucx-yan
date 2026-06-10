@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tech Stacks</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
@@ -52,8 +52,8 @@
 ###
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx-yan&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx-yan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 </div>
 
 ###
@@ -62,5 +62,5 @@
 
 <p align="left">
 <a href="mailto:yanlucasx10@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lucx-yan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yanlsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
