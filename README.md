@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Certificates</h2>
+<h2 align="left">Certifications</h2>
 
 ###
 
