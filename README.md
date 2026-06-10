@@ -47,13 +47,23 @@
 
 ###
 
+<h2 align="left">Certificates</h2>
+
+###
+
+<div align="center">
+<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2025&topic=future-of-work" width="180" />
+</div>
+
+###
+
 <h2 align="left">GitHub Stats</h2>
 
 ###
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx-yan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx-yan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 </div>
 
 ###
