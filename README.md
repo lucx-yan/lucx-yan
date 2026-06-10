@@ -41,9 +41,9 @@
 <h2 align="left">Currently Learning</h2>
 
 - Backend fundamentals
-- REST APIs
-- Databases
-- Software engineering best practices
+- REST API Architecture
+- SQL and Database Modeling fundamentals
+- Java & Object-Oriented Programming
 
 ###
 
