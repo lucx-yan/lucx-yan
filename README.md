@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Certifications & Badges</h2>
+<h2 align="left">Certifications</h2>
 
 ###
 
