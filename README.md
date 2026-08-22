@@ -57,17 +57,6 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucx-yan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx-yan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-</div>
-
-###
-
 <h2 align="left">Contact</h2>
 
 <p align="left">
