@@ -43,20 +43,11 @@
 
 <h2 align="left">Featured Projects</h2>
 
-- 🏆 **[FocusTogether](https://github.com/1ESPA-Yan/GS-WebFront)** — Collaborative web platform focused on well-being and productivity in remote work. Winner project of Global Solution FIAP — 2nd semester of 2025.
+- **[FocusTogether](https://github.com/1ESPA-Yan/GS-WebFront)** — Collaborative web platform focused on well-being and productivity in remote work. Winner project of Global Solution FIAP — 2nd semester of 2025.
 
-- 🌌 **[SkyAware](https://github.com/lucx-yan/skyaware)** — Night sky observation analysis platform built with React, Vite, React Router and Tailwind CSS.
+- **[WayCare](https://github.com/1ESPA-Yan/waycare-webdev)** — Gamified preventive health platform built for the Care Plus challenge at FIAP, with IoT-based hydration tracking (ESP32-powered WayCare Dock) and a Health Coins reward system. Selected for FIAP's NEXT showcase. [Live demo](https://waycare-webdev.vercel.app/)
 
-- 💧 **[WayCare](https://github.com/1ESPA-Yan/waycare-webdev)** — Gamified preventive health platform built for the Care Plus challenge at FIAP, with IoT-based hydration tracking (ESP32-powered WayCare Dock) and a Health Coins reward system. Selected for FIAP's NEXT showcase. [Live demo](https://waycare-webdev.vercel.app/)
-
-###
-
-<h2 align="left">Currently Learning</h2>
-
-- Backend fundamentals
-- REST API Architecture
-- SQL and Database Modeling fundamentals
-- Java & Object-Oriented Programming
+- **[SkyAware](https://github.com/lucx-yan/skyaware)** — Night sky observation analysis platform built with React, Vite, React Router and Tailwind CSS.
 
 ###
 
