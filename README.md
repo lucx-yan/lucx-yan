@@ -64,21 +64,12 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-   <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucx-yan&theme=dracula" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucx-yan&theme=dark&hide_border=true" width="650" />
 </p>
 
 <p align="left">
-  <img height="190" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucx-yan&theme=dracula" />
-  <img height="190" alt="Linguagens mais commitadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucx-yan&theme=dracula" />
-</p>
-
-<p align="left">
-  <img height="190" alt="Estatísticas gerais" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucx-yan&theme=dracula" />
-  <img height="190" alt="Horários mais produtivos" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucx-yan&theme=dracula&utcOffset=-3" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucx-yan&theme=dracula&hide_border=true" width="400" />
+  <img height="190" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucx-yan&theme=dark" />
+  <img height="190" alt="Estatísticas gerais" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucx-yan&theme=dark" />
 </p>
 
 ###
