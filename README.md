@@ -55,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2025&topic=future-of-work" width="170" />
 </div>
 
