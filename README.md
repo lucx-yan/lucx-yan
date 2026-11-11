@@ -45,7 +45,7 @@
 
 - **[FocusTogether](https://github.com/1ESPA-Yan/GS-WebFront)** — Collaborative web platform focused on well-being and productivity in remote work. Winner project of Global Solution FIAP — 2nd semester of 2025.
 
-- **[WayCare](https://github.com/1ESPA-Yan/waycare-webdev)** — Gamified preventive health platform built for the Care Plus challenge at FIAP, with IoT-based hydration tracking (ESP32-powered WayCare Dock) and a Health Coins reward system. Selected for FIAP's NEXT showcase. [Live demo](https://waycare-webdev.vercel.app/)
+- **[WayCare](https://github.com/1ESPA-Yan/waycare-webdev)** — Gamified preventive health platform built for the Care Plus challenge at FIAP, with IoT-based hydration tracking (ESP32-powered WayCare Dock) and a Health Coins reward system. 3rd place at FIAP's NEXT showcase. [Live demo](https://waycare-webdev.vercel.app/)
 
 - **[SkyAware](https://github.com/lucx-yan/skyaware)** — Night sky observation analysis platform built with React, Vite, React Router and Tailwind CSS.
 
