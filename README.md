@@ -56,11 +56,11 @@
 ###
 
 <div align="left">
-<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2025&topic=future-of-work" width="170" />
+<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2025&topic=future-of-work" width="200" />
 </div>
 
 <div align="left">
-<img src="https://fiap-achievements.vercel.app/api/badge?theme=carbon&badge=challenge&year=2026&company=care-plus&ranking=3" width="170" />
+<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=challenge&year=2026&company=care-plus&ranking=3" width="200" />
 </div>
 
 ###
