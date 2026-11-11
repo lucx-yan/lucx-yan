@@ -55,11 +55,11 @@
 
 ###
 
-<div align="left">
+<div>
 <img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2025&topic=future-of-work" width="200" />
 </div>
 
-<div align="left">
+<div>
 <img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=challenge&year=2026&company=care-plus&ranking=3" width="200" />
 </div>
 
