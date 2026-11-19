@@ -49,6 +49,8 @@
 
 - **[SkyAware](https://github.com/lucx-yan/skyaware)** — Night sky observation analysis platform built with React, Vite, React Router and Tailwind CSS.
 
+- **[Lia](https://github.com/auxilia-lia/lia-gs-citizentech)** — Voice-based AI assistant that helps people with little smartphone or reading experience, mainly elderly citizens, use services like gov.br and INSS independently, with built-in scam-prevention guidance. Built for FIAP's Global Solution 2026.2 (CitizenTech track).
+
 ###
 
 <h2 align="left">Certifications</h2>
